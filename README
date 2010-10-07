@@ -1,7 +1,7 @@
 GNUduino - Arduino made with gEDA
 www.jeffrey.co.in/projects/gnuduino
 
-GNUduino is an Arduino board (Arduino Single-Sided Serial Board Version 3) redrawn using gEDA. GNUduino functions same as that of an Arduino board (It's just a clone of Arduino ). The main reason for a redisign using gEDA was to have complete freedom. The existing Arduino use a proprietary software for circuit and PCB design, which resistricts user freedom.   
+GNUduino is an Arduino board (Arduino Single-Sided Serial Board Version 3) redrawn using gEDA. GNUduino functions same as that of an Arduino board (It's just a clone of Arduino ). The main reason for a redesign using gEDA was to have complete freedom. The existing Arduino use a proprietary software for circuit and PCB design, which restricts user freedom.   
 
 License
 Released under the Creative Commons Attribution share-Alike 3.0 License
@@ -9,7 +9,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 Credits
 1)Arduino Single-Sided Serial Board Design for reference was taken from www.arduino.cc
-2)Symbols and footprints for circuit and PCB design were taken from gedasymbols(www.gedasymbols.org) and evilmadscientists(www.evilmadscientist.com/deci) decimi projects
+2)Symbols and footprints for circuit and PCB design were taken from gedasymbols(www.gedasymbols.org) and Evil Mad Scientist(www.evilmadscientist.com) Diavolino projects.
 
 Jeffrey Antony
 http://jeffrey.co.in
