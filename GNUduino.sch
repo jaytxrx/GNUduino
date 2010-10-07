@@ -739,7 +739,7 @@ device=PWRJACK
 T 42950 42400 5 10 1 1 0 0 1
 refdes=CONN1
 T 42950 42750 5 10 0 0 0 0 1
-footprint=2.5mmjack
+footprint=pwr-jack.fp
 }
 N 44050 41750 44150 41750 4
 N 47050 41550 47050 41050 4
