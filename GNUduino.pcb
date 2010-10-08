@@ -1,5 +1,5 @@
 # release: pcb 20091103
-# date:    Thu Oct  7 10:47:39 2010
+# date:    Fri Oct  8 21:12:05 2010
 # user:    jeffrey (Jeffrey,,,)
 # host:    jeffrey-laptop
 
@@ -1993,6 +1993,8 @@ Layer(2 "solder")
 	Line[338780 217323 342717 221260 4000 2000 "clearline"]
 	Line[342717 221260 345316 221260 4000 2000 "clearline"]
 	Line[17126 72047 23228 65945 4000 2000 "clearline"]
+	Line[307087 233069 295278 233069 4000 2000 "clearline"]
+	Line[295278 233069 295276 233071 2500 2000 "clearline"]
 	Polygon("clearpoly")
 	(
 		[15157 11024] [90354 11024] [60236 41142] [52953 33859] [42913 33859] 
