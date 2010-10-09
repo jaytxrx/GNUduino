@@ -1,7 +1,7 @@
 To Do
 1) Correct silk screen descriptors
 2) Check for errors in the PCB design
-3) Add port names to silk screen
+3) DONE: Add port names to silk screen
 4) Update README file on how to trace and also how to use gsch2pcb ? 
 5) Correct the errors when optimising the rats nets
 6) Check rats nets connections
