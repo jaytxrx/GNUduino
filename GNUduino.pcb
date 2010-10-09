@@ -1,5 +1,5 @@
 # release: pcb 20091103
-# date:    Sat Oct  9 20:30:46 2010
+# date:    Sat Oct  9 20:48:44 2010
 # user:    bert (Bert Timmerman)
 # host:    draaikolk
 
@@ -2052,8 +2052,10 @@ Layer(6 "silk")
 (
 	Text[89962 94881 0 122 "GNUduino - Arduino made with gEDA" ""]
 	Text[96456 105710 0 122 "www.jeffrey.co.in" ""]
-	Text[125591 31497 0 100 "PORT D" ""]
-	Text[211416 31495 0 100 "PORT B" ""]
+	Text[125591 31497 0 100 "PORT D (D0-D7)" ""]
+	Text[211416 31495 0 100 "PORT B (D8-D13)" ""]
+	Text[161417 238780 0 100 "PORT C (A0-A5)" ""]
+	Text[231890 239567 0 100 "POWER" ""]
 )
 NetList()
 (
