@@ -13,7 +13,8 @@ http://creativecommons.org/licenses/by-sa/3.0/
 Credits
 1)Arduino Single-Sided Serial Board Design for reference was taken from www.arduino.cc
 2)Symbols and footprints for circuit and PCB design were taken from gedasymbols(www.gedasymbols.org) and Evil Mad Scientist(www.evilmadscientist.com) Diavolino projects.
-3)GNUduino was the name suggested by Pramode (www.pramode.net)
+3)GNUduino was the name suggested by Pramode CE (www.pramode.net)
+4)Bert Timmerman - For providing some fixes in the PCB layout
 
 Jeffrey Antony
 http://jeffrey.co.in
